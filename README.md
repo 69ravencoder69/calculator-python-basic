@@ -18,4 +18,4 @@ This is a simple Python calculator that allows users to perform basic arithmetic
 2. Clone the repository or download the Python file (`main.py`).
 
 ```bash
-git clone https://github.com/yourusername/simple-python-calculator.git
+git clone https://github.com/69ravencoder69/calculator-python-basic.git
